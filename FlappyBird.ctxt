@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FlappyBird
+comment1.params=
+comment1.target=FlappyBird()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ physics()
+comment4.params=
+comment4.target=void\ isTouchingPipe()
+comment5.params=
+comment5.target=void\ isTouchingScore()
+comment6.params=
+comment6.target=void\ initAnimationSprites()
+comment7.params=
+comment7.target=void\ animateFlight()
+numComments=8
